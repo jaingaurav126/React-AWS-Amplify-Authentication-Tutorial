@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gaurav-dev-b580a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::241533154996:role/amplify-gaurav-dev-b580a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::241533154996:role/amplify-gaurav-dev-b580a-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-gaurav-dev-b580a-deployment",
+      "UnauthRoleName": "amplify-gaurav-dev-b580a-unauthRole",
+      "StackName": "amplify-gaurav-dev-b580a",
+      "StackId": "arn:aws:cloudformation:eu-north-1:241533154996:stack/amplify-gaurav-dev-b580a/e2d67780-87f8-11ef-8948-0e4427fadd1f",
+      "AmplifyAppId": "d36zh8wvso02ns"
+    },
+    "categories": {
+      "auth": {
+        "gaurav9c29b505": {}
+      }
+    }
+  }
+}
